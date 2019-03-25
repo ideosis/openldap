@@ -30,8 +30,8 @@ If you cannot upgrade to the latest versions, you can have a look at the [old tu
 ### 1. Create a new Laravel project and install Adldap2-Laravel
 
 ```bash
-composer create-project laravel/laravel laravel-simple-ldap-auth
-cd laravel-simple-ldap-auth
+composer create-project laravel/laravel openldap
+cd openldap
 composer require adldap2/adldap2-laravel
 ```
 
