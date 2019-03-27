@@ -303,11 +303,11 @@ return [
 
     'sync_attributes' => [
 
-        'username' => 'uid',
-
         'name' => 'cn',
 
-        'phone' => 'telephonenumber',
+        'username' => 'uid',
+
+        'email' => 'email',
     ],
 
     /*
